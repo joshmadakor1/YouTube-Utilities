@@ -83,8 +83,8 @@ If you win and don't respond to my comments after 48 hours, I will give the next
 
 ## **Related Links**
 
-- [These Giveaway Rules](https://github.com/joshmadakor1/Contest/README.md)
-- [Code Used to Select Winners](https://github.com/joshmadakor1/Contest/giveaway.py)
+- [These Giveaway Rules](https://github.com/joshmadakor1/YouTube-Utilities/blob/main/Contest/README.md)
+- [Code Used to Select Winners](https://github.com/joshmadakor1/YouTube-Utilities/blob/main/Contest/giveaway.py)
 - [VIDEO DEMO of How Winners Will Be Randomly Selected](https://www.youtube.com/watch?v=JxziFcvNFOM)
 - [YouTube’s Contest Policies and Guidelines](https://support.google.com/youtube/answer/1620498?hl=en)
 - [YouTube’s Community Guidelines](https://www.youtube.com/intl/ALL_au/howyoutubeworks/policies/community-guidelines/)
