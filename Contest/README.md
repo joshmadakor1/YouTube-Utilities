@@ -1,10 +1,12 @@
 # Rules for the $500 Cash Giveaway
 
----
+## **Please ensure you read all the rules before entering.**
 
-### **Please ensure you read all the rules before entering.**
+### **Contest Start:** Monday, July 3rd, 10am PST
 
-**All comments will be held for review for the first 48 hours of the contest**
+### **Contest Finish:** Wednesday, July 5th, 10am PST
+
+### (All comments will be held for review for the first 48 hours of the contest)
 
 ---
 
@@ -12,7 +14,7 @@
 
 ## Step 1.
 
-Subscribe to the channel. I will be doing at least 10 more giveaways this year (non-interview videos). Use the bell if you want to get notified.
+Subscribe to the channel. I plan to do at least 10 more giveaways this year (non-interview videos) assuming people behave. Use the bell if you want to get notified.
 
 ## Step 2.
 
@@ -34,7 +36,7 @@ Two winners for EACH of the 5 secret words will be RANDOMLY selected (using Pyth
 
 ## Step 4.
 
-To have a chance of winning more than once, you’ll have to make more than one entry, which means you’ll have to use a different secret word for a total of up to a maximum of 5 possible entries. For example, if the secret words are `[PANDA-55, FOX, DOG, P-22, CYBER-1]`, viewer "Jimmy" might find two of the secret words and decide to make two separate contest entry comments:
+To have a chance of winning more than once, you’ll have to make more than one entry, which means you’ll have to find and use a different secret word for a total of up to a maximum of 5 possible entries. For example, if the secret words are `[PANDA-55, FOX, DOG, P-22, CYBER-1]`, viewer "Jimmy" might find two of the secret words and decide to make two separate contest entry comments:
 
 _**@Jimmy**_ says:
 
@@ -54,7 +56,7 @@ However, I disagree with you because of d, e, and f as well!
 
 ## Step 5.
 
-If you want to make life easy for me, watch your notifications for a reply from me in case you win. If you do win, please put your Venmo ID or PayPal ID in your YouTube channel page. For example, either of the following:
+If you want to make life easy for me, watch your notifications for a reply from me in case you win. If you do win, please consider putting your Venmo ID or PayPal ID in your YouTube channel page. For example, either of the following:
 
 ```
 Venmo ID: @JoshMadakor
@@ -63,13 +65,13 @@ PayPal ID: @JoshMadakor
 
 ## Step 6.
 
-The contest will run for at least 48 hours. When time is up, all comments will be approved and made visible and a video recording running the python code will be taken as proof. I will then pay the winners
+The contest will run for at least 48 hours. When time is up, all comments will be approved and made visible and a video recording running the python script and selecting winners will be taken as proof. I will then notify and pay the winners via Venmo or PayPal.
 
 ---
 
 ## **Important Notice 1**
 
-If I notice someone trying to cheat in any way or obviously doing something not in the spirit of the contest (for example, posting something that's obviously dumb) and you happen to “win”, I reserve the right to not pay you and pick the next person on the list.
+If I notice someone trying to cheat in any way or obviously doing something not in the spirit of the contest (for example, posting something that's obviously dumb) and you happen to “win”, I reserve the right to not pay you and pick the next person on the list who found the same secret word.
 
 ---
 
@@ -81,8 +83,8 @@ If you win and don't respond to my comments after 48 hours, I will give the next
 
 ## **Related Links**
 
-- [These Giveaway Rules](https://github.com/joshmadakor1)
-- [Code Used to Select Winners](https://github.com/joshmadakor1)
-- [Demo of How Winners Will Be Randomly Selected](https://youtube.com)
+- [These Giveaway Rules](https://github.com/joshmadakor1/Contest/README.md)
+- [Code Used to Select Winners](https://github.com/joshmadakor1/Contest/giveaway.py)
+- [VIDEO DEMO of How Winners Will Be Randomly Selected](https://www.youtube.com/watch?v=JxziFcvNFOM)
 - [YouTube’s Contest Policies and Guidelines](https://support.google.com/youtube/answer/1620498?hl=en)
 - [YouTube’s Community Guidelines](https://www.youtube.com/intl/ALL_au/howyoutubeworks/policies/community-guidelines/)
