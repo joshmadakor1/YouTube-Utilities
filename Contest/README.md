@@ -2,9 +2,9 @@
 
 ## **Please ensure you read all the rules before entering.**
 
-### **Contest Start:** Monday, July 3rd, 10am PST
+### **Contest Start:** Monday, July 3rd, 7:10 am PST
 
-### **Contest Finish:** Wednesday, July 5th, 10am PST
+### **Contest Finish:** Wednesday, July 5th, 7:10 am PST
 
 ### (All comments will be held for review for the first 48 hours of the contest)
 
