@@ -6,11 +6,18 @@ import csv
 # Replace with your own YouTube API key: https://console.cloud.google.com/apis/credentials
 YOUTUBE_API_KEY = 'xxxxxxxxxxxxxxxxxxxxxx'
 
+'''
+0:04 NIST
+4:58 PCI
+12:41 CISO
+15:53 800-53
+17:46 RMF
+'''
 # Replace with the words viewers need to discover in the video
-SECRET_WORDS = ['sandra', 'google', 'comptia', 'soc', 'cyber']
+SECRET_WORDS = ['NIST', 'PCI', 'CISO', '800-53', 'RMF']
 
-# Replace with the video ID of your target video: https://www.youtube.com/watch?v=CkkGGkr8_Wk
-VIDEO_ID = 'CkkGGkr8_Wk'
+# Replace with the video ID of your target video: https://www.youtube.com/watch?v=LweW1RypjD4
+VIDEO_ID = 'LweW1RypjD4'
 
 # These are the headers for the CSV files containing the potential winners
 CSV_HEADER = ['author_display_name', 'author_channel_url', 'comment', 'comment_link', 'comment_id', 'comment_date', 'video_id']
@@ -138,9 +145,11 @@ def record_winners_of_each_secret_word_to_csv(secret_words, comments_with_secret
 
 # Collect all the comments from target video and store in list
 all_comments = collect_comments_from_youtube_video(api_key=YOUTUBE_API_KEY, video_id=VIDEO_ID)
+print(f"Total comments in video: {len(all_comments)}")
 
 # From all comments, select only the comments that contain secret words and store them in a list
 comments_with_secret_words = collect_comments_containing_secret_words(secret_words=SECRET_WORDS, all_comments=all_comments)
+print(f"Comments containing secret words: {len(comments_with_secret_words)}")
 
 # Shuffle the comments containing secret words (This is where the winners for each secret word will be determined)
 random.shuffle(comments_with_secret_words)
