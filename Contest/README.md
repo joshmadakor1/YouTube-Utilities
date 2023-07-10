@@ -18,9 +18,11 @@ Subscribe to the channel. I plan to do at least 10 more giveaways this year (non
 
 ## Step 2.
 
-Throughout the video (from start to finish), 5 (FIVE) different secret words will appear on different parts of the screen for a brief moment at random times. To enter the contest, you must make a comment that begins with one of the secret words, followed by your thoughts on the video or any criticisms you have (do you agree?, disagree?, share your thoughts, etc.)
+Throughout the video (from start to finish), 5 (FIVE) different secret words will appear on different parts of the screen for a brief moment at random times. There will be a little anime character holding up a sign with the word on it that may look something like this: https://github.com/joshmadakor1/YouTube-Utilities/assets/39254979/3a847f64-96ee-459b-b080-512dd39842e8
 
-For example, if you find the secret phrase “PANDA57”, your contest entry comment will look like this:
+To enter the contest, you must make a comment that begins with one of the secret words, followed by your thoughts on the video or any criticisms you have (do you agree?, disagree?, share your thoughts, etc.)
+
+For example, if you find the secret phrase “PANDA57”, your contest entry comment will look like this: 
 
 _**@JaneDoe**_ says:
 
